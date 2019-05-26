@@ -1,0 +1,13 @@
+#地图相关
+enum MyEnum {
+ E001 0  #可
+ E002 3
+}
+msg PhoneNumber {
+ 	new bool #
+ type []int #
+} 
+msg Msg002 {
+ 222 string @1.2.3
+}
+
